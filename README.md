@@ -17,3 +17,6 @@ def cls():
 
 cls()
 ```
+
+And looks like there a package for it already:
+* https://pypi.org/project/clear-screen/
