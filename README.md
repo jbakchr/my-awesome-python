@@ -1,1 +1,1 @@
-# my-awesome-python
+# My Awesome Python
