@@ -4,6 +4,9 @@ Just a list of 'awesome' things that'll help in coding Python
 ## Packages
 List of awesome Python packages I've used:
 
+### Data Analysis
+* [pandas](https://pandas.pydata.org/)
+
 ### HTTP
 * [requests](https://docs.python-requests.org/en/latest/)
 
