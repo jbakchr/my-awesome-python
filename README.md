@@ -14,6 +14,19 @@ List of awesome Python packages I've used:
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ## How To's
+
+### String stuff
+
+#### Get random character
+It's easy to get a random character with Python's [string](https://docs.python.org/3/library/string.html) module.
+
+Here's a quick example just to show how it can be done:
+```python
+import string
+import random
+random.choice(string.ascii_letters + string.digits + string.punctuation)
+```
+
 ### Terminal stuff
 
 #### Clear the terminal / console with python
