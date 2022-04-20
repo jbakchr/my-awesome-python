@@ -24,6 +24,7 @@ Here's a quick example just to show how it can be done:
 ```python
 import string
 import random
+
 random.choice(string.ascii_letters + string.digits + string.punctuation)
 ```
 
