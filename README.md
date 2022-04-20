@@ -10,6 +10,9 @@ List of awesome Python packages I've used:
 ### HTTP
 * [requests](https://docs.python-requests.org/en/latest/)
 
+### Parsers
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
 ## How To's
 ### Terminal stuff
 
