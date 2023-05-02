@@ -13,6 +13,10 @@ List of awesome Python packages I've used:
 ### Parsers
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
+### Utilities
+#### Terminal
+* [clear](https://pypi.org/project/clear/)
+
 ## How To's
 
 ### String stuff
