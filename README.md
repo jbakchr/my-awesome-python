@@ -16,6 +16,7 @@ List of awesome Python packages I've used:
 ### Utilities
 #### Terminal
 * [clear](https://pypi.org/project/clear/)
+* [pyboxen](https://github.com/savioxavier/pyboxen)
 
 ## How To's
 
