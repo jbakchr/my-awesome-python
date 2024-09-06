@@ -7,6 +7,9 @@ List of awesome Python packages I've used:
 ### APIs
 * [fastapi](https://fastapi.tiangolo.com/)
 
+### CLI
+* [typer](https://typer.tiangolo.com/)
+
 ### Data Analysis
 * [pandas](https://pandas.pydata.org/)
 
