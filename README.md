@@ -7,6 +7,10 @@ List of awesome Python packages I've used:
 ### APIs
 * [fastapi](https://fastapi.tiangolo.com/)
 
+### Automation
+* [selenium](https://selenium-python.readthedocs.io/index.html)
+* [webdriver-manager](https://pypi.org/project/webdriver-manager/)
+
 ### CLI
 * [typer](https://typer.tiangolo.com/)
 
