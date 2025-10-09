@@ -24,9 +24,15 @@ List of awesome Python packages I've used:
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ### Utilities
+#### General
+* [pydash](https://pydash.readthedocs.io/en/latest/)
+
 #### Terminal
 * [clear](https://pypi.org/project/clear/)
 * [pyboxen](https://github.com/savioxavier/pyboxen)
+
+### Validation
+* [validators](https://python-validators.github.io/validators/)
 
 ## How To's
 
