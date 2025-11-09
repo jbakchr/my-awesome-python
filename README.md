@@ -20,6 +20,10 @@ List of awesome Python packages I've used:
 ### HTTP
 * [requests](https://docs.python-requests.org/en/latest/)
 
+## ORM
+* SQLAlchemy
+* SQLModel
+
 ### Parsers
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
